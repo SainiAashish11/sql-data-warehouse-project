@@ -47,6 +47,6 @@ Hi there! I'm **Ashish Saini**, a Data Analytics Engineer passionate about trans
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sainiaashishofficial/)
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- LinkedIn: [sainiaashishofficial](https://www.linkedin.com/in/sainiaashishofficial/)
+- GitHub: [SainiAashish11](https://github.com/SainiAashish11)
 - Email: aashishsainiwork1211@gmail.com
