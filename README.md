@@ -61,11 +61,6 @@ data-warehouse-project/
 ├── .gitignore                    # Files and directories to be ignored by Git
 ```
 ---
-## ⚖️ License
-
-This project is licensed under the [No License](LICENSE). You are free to use, modify, and share this project with proper attribution.
-
----
 
 ## 🌟 About Me
 
